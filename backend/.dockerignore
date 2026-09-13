@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+.pytest_tmp/
+.mypy_cache/
+.ruff_cache/
+.pip-audit-cache/
+*.py[cod]
+*.egg-info/
+storage/
+local_uploads/
+uploads/
